@@ -2,7 +2,7 @@ package Operators;
 
 import java.util.Scanner;
 
-public class ArthmeticOperator {
+public class LearnOperator {
     public static void main(String[] args) {
         // Arthmetic Operator
         // +, * , /, % ,-
